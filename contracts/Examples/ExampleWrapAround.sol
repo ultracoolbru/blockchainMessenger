@@ -1,6 +1,6 @@
 //SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.17;
+pragma solidity 0.8.17;
 
 contract ExampleWrapAround {
     uint public myUint; //0 -> (2^256)-1
